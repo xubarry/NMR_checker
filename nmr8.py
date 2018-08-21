@@ -1,7 +1,8 @@
 #This program check the nmr data
-#V5 adds the function of ingore the text before '%'
+#V5 adds the function of ingore the text before 'H NMR'
 #V6 will be able to identify more HiRes type other than ESI and EI
 #V8 add the support for GUI
+
 
 import sys  
 import os, re
